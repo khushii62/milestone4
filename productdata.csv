@@ -1,0 +1,51 @@
+Product ID,Name,Category,Price,Stock,Rating,Preferences ,Description
+101,Wireless Headphones,Electronics,199.99,50,4.5,"[""Electronics"", ""Books""]",Portable Bluetooth speaker with clear sound and long battery life.
+102,Smartphone,Electronics,49.99,20,3.8,"[""Toys"", ""Electronics""]","A high-quality smartphone with a 6.5-inch display, powerful processor, and excellent camera system for high-definition photos and videos."
+103,Bluetooth Speaker,Electronics,299,100,4.2,"[""Electronics"", ""Home Appliances""]","Noise-canceling headphones with Bluetooth connectivity, long battery life, and superior sound quality for an immersive listening experience."
+104,E-Book Reader,Books,15.99,15,5,"[""Books"", ""Sports""]",E-book reader with adjustable lighting and Wi-Fi connectivity.
+105,Novel: The Silent Sea,Books,24.5,30,3.5,"[""Books"", ""Sports"", ""Beauty""]",A best-selling self-help book offering practical advice and strategies to achieve personal growth and success
+106,Mystery Box Set,Books,99.95,60,4,"[""Books"", ""Beauty""]","A classic fantasy novel filled with magical adventures, rich world-building, and captivating characters."
+107,Women's Jacket,Clothing,150,120,4.7,"[""Sports"", ""Clothing""]",Stylish women's jacket for casual and formal occasions.
+108,Men's T-shirt,Clothing,89.99,80,3.9,"[""Clothing"", ""Beauty""]",Versatile men's T-shirt with a comfortable fit.
+109,Yoga Pants,Clothing,120,90,4.1,"[""Clothing"", ""Electronics""]",Cozy wool sweater that provides warmth and style during the colder months.
+110,Laptop,Electronics,20035.49,25,4.3,"[""Sports"", ""Electronics""]",Affordable laptop for everyday tasks.
+111,Smartwatch,Electronics,70,75,4.6,"[""Clothing"", ""Electronics""]","Portable Bluetooth speaker with deep bass and clear sound, perfect for outdoor parties."
+112,Fitness Tracker,Electronics,12.99,10,3.2,"[""Electronics"", ""Toys""]",Fitness tracker monitoring steps and calories burned.
+113,Digital Camera,Electronics,59.99,40,4.8,"[""Beauty"", ""Electronics""]","Laptop with a powerful processor, ample storage, and long battery life for all tasks."
+114,Fiction Novel,Books,199,200,4,"[""Clothing"", ""Books""]","Historical fiction novel set in ancient Rome, telling the story of political intrigue."
+115,Textbook: Python,Books,45,35,3.7,"[""Automotive"", ""Books""]",Motivational book that helps readers build confidence and overcome obstacles.
+116,Educational Puzzle,Toys,350,150,4.9,"[""Toys"", ""Sports""]",Educational puzzle designed to enhance problem-solving skills.
+117,Smart Home Device,Home & Kitchen,89,70,4.4,"[""Home & Kitchen"", ""Toys""]","Multi-functional blender ideal for smoothies, soups, and sauces with various speed settings."
+118,Wireless Charger,Electronics,79.95,45,3.6,"[""Electronics"", ""Beauty""]",Wireless charger compatible with multiple devices.
+119,Electric Kettle,Home & Kitchen,250,95,4.2,"[""Clothing"", ""Home & Kitchen""]",Electric kettle for quick water heating.
+120,Cooking Blender,Home & Kitchen,29.99,20,4.5,"[""Home & Kitchen"", ""Books""]",Set of non-stick cookware for easy meal preparation without the hassle of cleaning.
+121,Hand Mixer,Home & Kitchen,19.99,25,3.8,"[""Beauty"", ""Home & Kitchen""]",Set of premium quality dinnerware with elegant designs suitable for various occasions.
+122,Coffee Maker,Home & Kitchen,129,130,4.3,"[""Electronics"", ""Home & Kitchen""]","High-efficiency vacuum cleaner with strong suction power, perfect for all floors."
+123,Adjustable Desk Chair,Furniture,499,300,4.6,"[""Furniture"", ""Sports""]","Modern sofa offering both comfort and style, designed to fit seamlessly in any room."
+124,Bed Frame,Furniture,69.99,50,3.9,"[""Home Appliances"", ""Furniture""]","Sturdy wooden dining table that seats up to six people, ideal for family meals."
+125,Dining Table,Furniture,85.5,85,4,"[""Electronics"", ""Furniture""]","Stylish office chair with ergonomic support, designed for all-day comfort."
+126,Home Plant Pot,Home & Garden,399.99,250,4.7,"[""Home & Garden"", ""Toys""]","Gardening tools set, includes everything needed for maintaining a beautiful garden."
+127,Wall Clock,Home & Garden,42,30,4.1,"[""Home & Garden"", ""Beauty""]",Outdoor patio set featuring comfortable seating and stylish design for relaxation.
+128,Floor Lamp,Furniture,175,180,3.8,"[""Automotive"", ""Furniture""]","Queen-sized bed frame with a sleek design, providing ample support for restful sleep."
+129,Decorative Vase,Home & Garden,34.99,40,4.5,"[""Sports"", ""Home & Garden""]",Set of decorative planters to brighten up your indoor or outdoor space.
+130,Gaming Console,Electronics,99,110,4.4,"[""Toys"", ""Electronics""]",Portable power bank with a large capacity to keep devices charged while traveling.
+131,Video Game: Adventure,Video Games,55.5,55,4.9,"[""Video Games"", ""Sports""]",Popular gaming console with the latest games and multiplayer capabilities.
+132,Camera Lens,Electronics,110,140,3.7,"[""Electronics"", ""Clothing""]",High-performance gaming mouse with customizable buttons and precision tracking.
+133,Smart Light Bulb,Electronics,25.99,20,4.3,"[""Home Appliances"", ""Electronics""]",Digital camera with built-in Wi-Fi for easy photo sharing with friends and family.
+134,PlayStation Game,Video Games,49.5,60,4.6,"[""Video Games"", ""Books""]","Game controller designed for comfort during long sessions, compatible with multiple platforms."
+135,VR Headset,Electronics,20,15,3.9,"[""Beauty"", ""Electronics""]",Gaming laptop with high-end graphics and fast processing for an enhanced gaming experience.
+136,Electric Blender,Home & Kitchen,300,90,4.2,"[""Automotive"", ""Home & Kitchen""]",Stylish ceramic mug with a motivational quote for starting your day with a smile.
+137,Instant Pot,Home & Kitchen,450,500,4.8,"[""Home & Kitchen"", ""Books""]",Set of kitchen knives made from high-carbon stainless steel for precision cutting.
+138,Cookware Set,Home & Kitchen,99.5,45,3.6,"[""Toys"", ""Home & Kitchen""]","Slow cooker with multiple heat settings, ideal for making hearty soups and roasts."
+139,Sound Bar,Electronics,28,35,4.1,"[""Electronics"", ""Beauty""]","Tablet stand with adjustable height and angles, perfect for watching videos or conferencing."
+140,Smart Thermostat,Home & Kitchen,60,70,4,"[""Home & Kitchen"", ""Sports""]","High-quality cutting board made from bamboo, designed for durability and easy maintenance."
+141,Refrigerator,Home & Kitchen,15.49,10,5,"[""Books"", ""Home & Kitchen""]",Refrigerator with large storage capacity.
+142,Air Fryer,Home & Kitchen,74.99,65,3.8,"[""Home & Kitchen"", ""Electronics""]",Microwave with a sleek design and multiple cooking presets for fast meals.
+143,Digital Scale,Health & Personal Care,39.95,25,4.5,"[""Health & Personal Care"", ""Home & Kitchen""]",Digital scale for tracking weight with high precision.
+144,Digital Thermometer,Health & Personal Care,500,400,4.7,"[""Health & Personal Care"", ""Home Appliances""]","Fitness tracker monitoring steps, heart rate, and sleep patterns to help you stay healthy."
+145,Makeup Kit,Beauty,220,210,3.9,"[""Beauty"", ""Books""]","Luxurious set of makeup brushes designed for flawless application, suitable for all makeup."
+146,Skincare Set,Beauty,18.99,18,4.4,"[""Beauty"", ""Toys""]",High-quality shampoo and conditioner set that nourishes and strengthens hair.
+147,Body Lotion,Beauty,66.5,55,4.3,"[""Clothing"", ""Beauty""]",Body lotion for smooth and hydrated skin.
+148,Hair Straightener,Beauty,400,320,3.6,"[""Electronics"", ""Beauty""]","Facial mask that revitalizes and refreshes the skin, leaving it glowing and smooth."
+149,Perfume,Beauty,140,150,4.2,"[""Clothing"", ""Beauty""]",Makeup palette with a wide range of colors for both natural and dramatic looks.
+150,Facial Cleanser,Health & Personal Care,22.95,20,4.8,"[""Health & Personal Care"", ""Home Appliances""]","Wellness supplement promoting energy, vitality, and overall health."
